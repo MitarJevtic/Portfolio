@@ -21,7 +21,9 @@ body{
   font-size: 17px;
   
 }
-
+#cv{
+  float:right;
+}
 
 
 /* Change the color of links on hover */
